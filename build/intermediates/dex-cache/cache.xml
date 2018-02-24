@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_04dc07f8373d133162a37eb8625c761c4064b40c.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_524954c5a6255a6725e34c75f389e96ccefae8c5.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_7675ef129addadac7d9e8c56d4610c0aefe4fc05.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b1d6b6d2d4f7ffc5d8a6ad113416caaca74730e4.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_49023a9a9f3d8ad85df469a5b86368b5d3589a7a.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_bbaed816a79e34f015c50d39eddba8e6f04745dc.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_fc6117a9fae73823e021e8f9eb5e20fe8d6ee9a7.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c164e605bd2656e1b8c5696b854860e954600531.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_d2d58d7319e806b560759a56525db8b26a3b4c7b.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_b22cf78d33586a9a46952ab20c81b95d7e3230e8.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_700c70feb55fee03c8bf26beb6a5366815b2a103.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_42b3aee74712636971ef35ba59dc0c2063e7961a.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f20c2a9ba6093c3a7859a6180458fda469dd62c0.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_b62526a4271c19f50addb03f0cec77fe7343d6c4.jar" />
+    </item>
+    <item
+        jar="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/devinajimine/Desktop/Blokus-Final-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_50eec6d84653de33dbf4a99ed6f621db30b71797.jar" />
+    </item>
+
+</items>
